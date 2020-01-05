@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    border: 0;
+}
+
+.btnAdicionar{
+    float:right; 
+}
+.jumbotron{
+    /*background: linear-gradient(to top right, #003366 -1%, #00ccff 100%);*/
+    background-color: #003366 !important;
+} 
+h5{
+    color: white ;
+}
